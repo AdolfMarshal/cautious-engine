@@ -16,4 +16,6 @@ public class Prime{
    if(flag==0)  { System.out.println(n+" is prime number"); }  
   }//end of else  
 }    
-}   
+AOT IS THE BEST ANIME
+Shinzou Wo Sasageyo
+}
